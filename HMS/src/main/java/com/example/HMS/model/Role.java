@@ -1,0 +1,5 @@
+package com.example.HMS.model;
+
+public enum Role {
+    CUSTOMER, ADMIN, RECEPTIONIST, HOUSEKEEPING, MAINTENANCE, SECURITY, WAITER, CHEF, POS_SERVICE
+}
